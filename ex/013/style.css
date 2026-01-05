@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-    background-color: aqua;
+    background-image: radial-gradient(circle, green 50%, yellow 80%, red 1%);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
 }
@@ -15,5 +15,5 @@ p {
     text-align: justify;
 }
 h3 {
-    color: gray;
+    color: rgba(11, 46, 202, 0.452);
 }
