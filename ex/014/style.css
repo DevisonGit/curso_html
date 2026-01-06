@@ -1,6 +1,11 @@
 @charset "UTF-8";
 
+h1 {
+    color: #B98ADE;
+}
 h2 {
-    background-color: black;
-    color: white;
+    color: #8A91DF;
+}
+body {
+    background-color: #7CC2DE;
 }
