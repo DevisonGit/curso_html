@@ -1,5 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400&display=swap');
+@font-face {
+    font-family: 'love';
+    src: url('Love Buble.otf') format('opentype');
+}
+
 h1 {
     font-family: Caveat;
     font-size: 3em;
+}
+
+h2 {
+    font-family: love;
+    font-size: 5em;
+    font-weight: normal;
 }
