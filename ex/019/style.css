@@ -16,11 +16,15 @@ h1 {
 }
 
 h1#principal {
-    color: #5BF55E;
+    color: black;
     text-align: center;
-    background-color: black;
+    background-color: #B9E3FA;
 }
 
 h2 {
     color: #5BF55E;
+}
+
+.texto {
+    text-align: justify;
 }
