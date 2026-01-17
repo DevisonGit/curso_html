@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body {
+    font: 1em  Arial, Helvetica, sans-serif;
+    background-color: peachpuff;
+}
+article#caixa {
+    background-color: snow;
+    width: 400px;
+    margin: auto;
+    padding: 1px 10px;
+
+    /*usando sombras*/
+    box-shadow: 3px 5px 4px black;
+
+    /*bordas*/
+    border-radius: 10px 30px;
+}
