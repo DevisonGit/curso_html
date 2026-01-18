@@ -8,25 +8,38 @@
 body{
     background-color: lightgreen;
     font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
 }
 
 header{
     background-color: darkgreen;
-    margin: 0px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
 
+nav > a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0px 20px;    
+}
+
 header > h1 {
     text-align: center;
+    margin: auto;
+    padding-top: 20px;
 }
 header > p {
     text-align: center;
+    width: 400px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 main {
     background-color: white;
-    margin: 0px 200px;
+    margin: auto 200px;
 }
 
 main > h1 {
