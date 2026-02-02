@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+:root {
+    --cor0: #c5ebd6;
+    --cor1: #83E1AD;
+    --cor2: #3DDC84;
+    --cor3: #2FA866;
+    --cor4: #1A5C37;
+    --cor5: #063d1e;
+    --font0: Arial, Helvetica, sans-serif;
+    --font1: 'Bebas Neue', cursive;
+    --font2: 'Android', sans-serif;
+}
+
+body {
+    background-color: var(--cor0);
+    margin: auto;
+}
+
+header {
+    background-color: var(--cor4);
+    font-family: var(--font0);
+    text-align: center;
+    margin: auto;
+    padding-top: 20px;
+    color: var(--cor0);
+    font-family: var(--font0);
+    text-shadow: 2px, 2px, 0px rgba(0, 0, 0, 0.466);
+}
+
+header > h1 {
+
+}
