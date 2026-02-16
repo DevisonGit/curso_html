@@ -131,6 +131,20 @@ main strong {
     font-weight: bold;
 }
 
+div.video {
+    padding: 20 px;
+    position: relative;
+    padding-bottom: 56%;
+}
+
+div.video > iframe {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+}
+
 aside {
     background-color: var(--cor3);
     padding: 10px;
